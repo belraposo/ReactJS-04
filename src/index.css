@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    color: cornflowerblue;
+}
+
+.box{
+    width: 30rem;
+    height: 25rem;
+    margin: 8rem auto;
+    padding-left: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    background-color: cornsilk;
+    border-radius: 10px;
+    -webkit-box-shadow: 8px 8px 0px -1px cornflowerblue; 
+    box-shadow: 8px 8px 0px -1px cornflowerblue;
+}
